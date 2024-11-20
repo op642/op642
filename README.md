@@ -2,7 +2,7 @@
 - 👀 I’m interested in spatial audio and music
 - 🌱 I’m currently learning electronic engineering with music tech systems (mainly matlab)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me orpartridge@hotmail.co.uk
 
 <!---
 op642/op642 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
